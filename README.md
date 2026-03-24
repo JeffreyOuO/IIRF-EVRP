@@ -6,14 +6,6 @@ This repository contains experimental results for the paper:
 
 The repository provides processed solution outputs and statistics for EVRP benchmark instances.
 
----
-
-## Repository Structure
-
-```
-solutions/     # experimental results for each instance
-aggregated/    # summarized statistics used in the paper (optional)
-```
 
 ---
 
